@@ -27,7 +27,7 @@ with open('names.csv', 'rU') as links_list:
 		
 				complete_titles.append(title)
 		else:
-			line+=14
+			line+=1
 # 		print('done printing pageID')	
 # 	print(complete_titles)	
 
